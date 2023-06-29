@@ -1,0 +1,37 @@
+body {
+    margin: 2em;
+    padding: 2em;
+    font: 18px/1.5 Arial, serif;
+    font-weight: 100;
+    border: 1px solid #fff;
+    background: rgb(131, 58, 180);
+    background: linear-gradient(90deg, rgba(131, 58, 180, 1) 0%, rgba(253, 85, 29, 1) 12%, rgba(252, 176, 69, 1) 100%);
+    color: #fff;
+    border-radius: 5px;
+}
+
+h1 {
+    text-align: center;
+}
+
+section {
+    font-size: 60px;
+    text-align: center;
+}
+
+button {
+    border: 1px solid #fff;
+    border-radius: 5px;
+    width: 100px;
+    height: 50px;
+    background: transparent;
+    color: #fff;
+    font-size: 16px;
+}
+
+button:hover {
+    background: #fff;
+    opacity: 0.8;
+    color: rgba(252, 176, 69, 0.5);
+    
+}
